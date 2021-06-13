@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\simple"
+		},
+		{
+			"path": "..\\Votting_system"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Votting_system"
+	}
+}
